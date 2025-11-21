@@ -33,3 +33,7 @@ DocBot is an AI-powered knowledge assistant that ingests organizational document
 
 Refer to `INSTALLATION.md` and `API_DOCS.md` for detailed guidance.
 
+📊 Project Presentation
+
+You can view the complete project PPT here:
+https://www.canva.com/design/DAG5SVp2RDk/KbFAXPyBxr_SQhv1mLUexQ/edit?utm_content=DAG5SVp2RDk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
